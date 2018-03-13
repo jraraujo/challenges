@@ -5,8 +5,9 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- * Hackerrank Challenge
+ * Designer Pdf Viewer 
  * 
+ * Site: Hackerrank Challenge 
  * Link: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
  * Difficult: Easy
  * Submission: 001 
